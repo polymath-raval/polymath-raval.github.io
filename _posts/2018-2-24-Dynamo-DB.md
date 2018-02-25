@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Dynamo DB
-published: true
+title: Dynamo DBß
 ---
 
 ## Purpose
