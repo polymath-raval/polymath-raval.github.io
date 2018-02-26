@@ -10,5 +10,5 @@ Maintain a live journal of my learnings at any given point of time
 * Feb 2018:
   * [AWS Developer Certification]({{site.baseurl}}/AWS_Developer) 
 * Feb 2018:
-  * [AWS Developer Certification]({{site.baseurl}}/Dynamo-DB) 
+  * [Dynamo DB]({{site.baseurl}}/Dynamo-DB) 
 ## Lets Start
